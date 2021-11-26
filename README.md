@@ -23,6 +23,14 @@
   
   
   
+  ## 24-nov-2021
+   Made changes on the above method (23-nov-2021)
+   Creating  Terraform code (Taken a break on 25)
   
+  ## 26-nov-2021
+      Working on terraform code 
+  
+   
+   
   
   
