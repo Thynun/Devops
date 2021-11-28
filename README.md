@@ -40,6 +40,14 @@
                            * terraform apply - it will execute actions proposed in the terraform plan. 
       
       As per the requirement deployed the nginx web server and launched static application .
+      
+   ## 29-nov-2021 { 2 hr }
+       Trying to dockersie the application.
+       Understanding Docker and the need of docker.
+       Docker in aws 
+       
+ 
+       
         
        
         
