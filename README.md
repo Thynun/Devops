@@ -15,13 +15,13 @@
                ** Reference for Nginx
                    https://comtechies.com/how-to-install-and-configure-nginx-on-amazon-ec2-rhel-and-ubuntu-instances.html
                
-               ** Reference for aws/template
+               ** Reference for aws/template/image
                    https://www.youtube.com/watch?v=Uxq9RVHubaw
                   
                ** Reference for terraform 
                    https://www.youtube.com/watch?v=o0Fvk5dpK1Q
                    https://registry.terraform.io/providers/hashicorp/aws/latest/docs
-  
+ 
   
   
   ## 24-nov-2021 { 1 hr}
@@ -54,8 +54,8 @@
                       
                         Reference website:
                          * https://hub.docker.com/_/nginx
-    
-    
+                     
+                         
         End.
         
         
