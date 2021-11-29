@@ -46,7 +46,7 @@
        Understanding Docker and the need of docker.
        Docker in aws 
      
-    ## 29-nov-2021 { 3 hr }
+   ## 29-nov-2021 { 3 hr }
         Containerised the application using docker.
           * Pulled nginx image from docker hub.
           * created a dockerfile to build image.
