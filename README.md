@@ -41,14 +41,28 @@
       
       As per the requirement deployed the nginx web server and launched static application .
       
-   ## 29-nov-2021 { 2 hr }
+   ## 28-nov-2021 { 2 hr }
        Trying to dockersie the application.
        Understanding Docker and the need of docker.
        Docker in aws 
-       
+     
+    ## 29-nov-2021 { 3 hr }
+        Containerised the application using docker.
+          * Pulled nginx image from docker hub.
+          * created a dockerfile to build image.
+          * Then run the docker image.
+                      
+                        Reference website:
+                         * https://hub.docker.com/_/nginx
+    
+    
+        End.
+        
+        
+        
  
        
-        
+    
        
         
   
